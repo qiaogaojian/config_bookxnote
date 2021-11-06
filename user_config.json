@@ -1,5 +1,6 @@
 {
     "AutoCopyFileToLib": true,
     "DefaultPageZoom": "1:100",
-    "EpubFont": "微软雅黑"
+    "EpubFont": "微软雅黑",
+    "ShowMode": 1
 }
