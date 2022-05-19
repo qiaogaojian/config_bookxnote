@@ -4,6 +4,6 @@
     "DefaultPageLayout": 2,
     "DefaultPageZoom": "1:100",
     "EpubFont": "微软雅黑",
-    "ShowMode": 0,
+    "ShowMode": 1,
     "TitleFont": "Noto Sans CJK SC"
 }
