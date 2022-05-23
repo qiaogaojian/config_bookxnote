@@ -30,7 +30,7 @@
         "532": "Alt+3",
         "533": "Alt+U"
     },
-    "MindNodeInsertFlags": 1,
+    "MindNodeInsertFlags": 2,
     "ShowMode": 0,
     "TitleFont": "Microsoft YaHei"
 }
