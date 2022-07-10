@@ -1,5 +1,45 @@
 [
     {
+        "./a byte of python": [
+            0,
+            0,
+            100,
+            0,
+            0,
+            false,
+            0,
+            false,
+            0,
+            false,
+            false,
+            false,
+            "000000ff000000010000000200000174000005d00000000001000000000101"
+        ],
+        "~entry": "a byte of python",
+        "~id": "{958bbc33-7f60-4a8d-a589-8ac2b40017e5}",
+        "~mod": "2022-07-10 20:57:21"
+    },
+    {
+        "./Python Crash Course, 2nd Edition (Eric Matthes)": [
+            0,
+            0,
+            100,
+            0,
+            0,
+            false,
+            0,
+            false,
+            0,
+            false,
+            false,
+            false,
+            "000000ff000000010000000200000174000005d00000000001000000000101"
+        ],
+        "~entry": "Python Crash Course, 2nd Edition (Eric Matthes)",
+        "~id": "{e59a26d2-c173-486c-8871-8b75da0fb253}",
+        "~mod": "2022-07-10 20:56:53"
+    },
+    {
         "./Fluent Python, 2nd Edition (Luciano Ramalho [Luciano Ramalho])": [
             0,
             0,
@@ -17,7 +57,7 @@
         ],
         "~entry": "Fluent Python, 2nd Edition (Luciano Ramalho [Luciano Ramalho])",
         "~id": "{067f9d40-457f-401b-8c1e-be71ef43aafe}",
-        "~mod": "2022-07-10 13:41:48"
+        "~mod": "2022-07-10 20:56:52"
     },
     {
         "./The Effective Executive The Definitive Guide to Getting the Right Things Done (Peter F. Drucker)": [
