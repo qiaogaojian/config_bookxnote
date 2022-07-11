@@ -1,5 +1,25 @@
 [
     {
+        "./SQL基础教程 (第2版)": [
+            0,
+            0,
+            100,
+            0,
+            0,
+            false,
+            0,
+            false,
+            0,
+            false,
+            false,
+            false,
+            "000000ff00000001000000020000067f000001a00000000001000000000101"
+        ],
+        "~entry": "SQL基础教程 (第2版)",
+        "~id": "{b51cca74-bc2c-4b88-8996-0579957f8c72}",
+        "~mod": "2022-07-11 18:30:13"
+    },
+    {
         "./Fluent Python, 2nd Edition (Luciano Ramalho [Luciano Ramalho])": [
             0,
             0,
