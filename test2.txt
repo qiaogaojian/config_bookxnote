@@ -1,0 +1,16 @@
+[Thu, 06 Oct 2022 20:07:45 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:3996/
+[Thu, 06 Oct 2022 20:07:45 GMT] [info] [<0.000.0>] database will use sqlite3.
+[Thu, 06 Oct 2022 20:07:45 GMT] [info] [<0.000.0>] database files will be saved to D:\Tools\Chrome\pouchdb-server\db
+[Thu, 06 Oct 2022 20:07:45 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:3996/_utils for the Fauxton UI.
+[Thu, 06 Oct 2022 20:08:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /highlighter/ 200
+[Thu, 06 Oct 2022 20:08:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /highlighter/ 304
+[Thu, 06 Oct 2022 20:08:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /highlighter/_design/match_date_view/_view/match_date_view?include_docs=true&descending=false&startkey=%5B%22https%3A%2F%2Fgitee.com%2Fqiaogaojian%22%5D&endkey=%5B%22https%3A%2F%2Fgitee.com%2Fqiaogaojian%22%2C%7B%7D%5D 200
+[Thu, 06 Oct 2022 20:12:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /highlighter/ 304
+[Thu, 06 Oct 2022 20:12:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /highlighter/ 304
+[Thu, 06 Oct 2022 20:12:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /highlighter/_design/match_date_view/_view/match_date_view?include_docs=true&descending=false&startkey=%5B%22https%3A%2F%2Fgitee.com%2Fqiaogaojian%22%5D&endkey=%5B%22https%3A%2F%2Fgitee.com%2Fqiaogaojian%22%2C%7B%7D%5D 304
+[Thu, 06 Oct 2022 20:15:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /highlighter/ 304
+[Thu, 06 Oct 2022 20:15:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /highlighter/ 304
+[Thu, 06 Oct 2022 20:15:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /highlighter/_design/match_date_view/_view/match_date_view?include_docs=true&descending=false&startkey=%5B%22https%3A%2F%2Fgitee.com%2Fqiaogaojian%22%5D&endkey=%5B%22https%3A%2F%2Fgitee.com%2Fqiaogaojian%22%2C%7B%7D%5D 304
+[Thu, 06 Oct 2022 20:15:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /highlighter/ 304
+[Thu, 06 Oct 2022 20:15:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /highlighter/ 304
+[Thu, 06 Oct 2022 20:15:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /highlighter/_design/match_date_view/_view/match_date_view?include_docs=true&descending=false&startkey=%5B%22https%3A%2F%2Fgitee.com%2Fqiaogaojian%22%5D&endkey=%5B%22https%3A%2F%2Fgitee.com%2Fqiaogaojian%22%2C%7B%7D%5D 304
