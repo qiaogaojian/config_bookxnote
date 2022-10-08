@@ -1,3 +1,37 @@
 {
-    "EpubFont": "微软雅黑"
+    "AutoCopyFileToLib": true,
+    "CommentFont": "Microsoft YaHei",
+    "DefaultPageLayout": 2,
+    "DefaultPageZoom": "1:100",
+    "EpubFont": "微软雅黑",
+    "HotKeys": {
+        "112": "Ctrl+C",
+        "120": "Ctrl+O",
+        "126": "Ctrl+W",
+        "139": "Ctrl+F",
+        "140": "Shift+F3",
+        "141": "F3",
+        "149": "Ctrl+B",
+        "167": "Alt+T",
+        "176": "Alt+A",
+        "234": "Alt+N",
+        "239": "F2",
+        "252": "Ctrl+Shift+O",
+        "261": "Alt+Q",
+        "262": "Alt+E",
+        "278": "Alt+M",
+        "318": "F10",
+        "334": "Alt+O",
+        "337": "Alt+G",
+        "440": "F11",
+        "443": "Ctrl+Z",
+        "444": "Ctrl+Y",
+        "521": "F8",
+        "532": "Alt+3",
+        "533": "Alt+U"
+    },
+    "MindNodeInsertFlags": 1,
+    "MindNodeShowFlags": 7,
+    "ShowMode": 0,
+    "TitleFont": "Microsoft YaHei"
 }
